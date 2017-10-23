@@ -176,18 +176,19 @@ body {
 }
 
 #navbar a {
-  float: left;
+  float: right;
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 15px;
+  padding: 10px;
   text-decoration: none;
   font-size: 17px;
   z-index: 1000;
+  background-color: green;
 }
 
 #navbar a:hover {
-  background-color: #ddd;
+  background-color: #44d64e;
   color: black;
   z-index: 1000;
 }
